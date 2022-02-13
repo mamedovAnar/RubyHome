@@ -1,0 +1,114 @@
+@media (max-width: 1400px) {
+}
+
+@media (max-width: 1200px) {
+}
+
+@media (max-width: 991px) {
+  /* Header */
+  .header {
+    margin-bottom: 45px;
+  }
+
+  .collapse {
+    text-align: center;
+  }
+
+  .nav-item {
+    margin-bottom: 15px;
+    margin-right: 0;
+  }
+
+  .header_button {
+    padding: 5px 10px;
+  }
+
+  /* Intro */
+
+  .intro_title {
+    font-size: 51px;
+    margin-bottom: 15px;
+  }
+
+  .intro_text {
+    margin: 0;
+  }
+
+  /* Partners */
+  .partners_title {
+    margin-bottom: 45px;
+  }
+
+  /* Feedback */
+
+  .feedback {
+    margin-bottom: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  /* Partners */
+  .partners {
+    margin-bottom: 100px;
+  }
+
+  /* Popular */
+  .popular {
+    margin-bottom: 100px;
+  }
+
+  .card_price {
+    font-size: 16px;
+  }
+
+  .card_button {
+    padding: 5px 10px;
+  }
+
+  /* Featured */
+  .featured {
+    margin-bottom: 100px;
+  }
+}
+
+@media (max-width: 630px) {
+  /* Intro */
+  .intro_title {
+    font-size: 31px;
+    margin-bottom: 10px;
+  }
+
+  /* Feedback form */
+}
+
+@media (max-width: 576px) {
+  /* Intro */
+  .intro_subtitle {
+    margin-bottom: 20px;
+  }
+
+  /* Popular */
+
+  .popular_header {
+    margin-bottom: 50px;
+  }
+
+  .popular_title {
+    font-size: 30px;
+  }
+
+  .popular_link {
+    font-size: 10px;
+  }
+
+  /* Feedback form */
+  #userEmail {
+    max-width: 400px;
+
+    padding-left: 15px;
+  }
+
+  .subscribe {
+    padding: 8px 20px;
+  }
+}
